@@ -1,0 +1,5 @@
+,gender,smoking_status,cholesterol_level,air_pollution_exposure,physical_activity,diet_score,stress_level,alcohol_consumption,healthcare_access,rural_or_urban,region,province,hospital_availability,employment_status,education_level,income_level
+count,239266,239266,239266,239266,239266,239266,239266,239266,239266,239266,239266,239266,239266,239266,239266,239266
+unique,2,2,3,3,3,3,3,2,3,2,5,8,3,3,3,3
+top,female,Non-Smoker,Normal,Medium,Low,Moderate,Low,No,Poor,Rural,Western,Guangdong,High,Retired,Higher,High
+freq,119948,119697,80091,119593,80086,79954,80120,167156,79912,143507,48100,30162,79848,79872,119559,80149
